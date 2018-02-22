@@ -23,3 +23,7 @@ Using the MNIST dataset to determine numbers from handwritten images.
 14. Run pip install keras-tqdm
 15. Run jupyter nbextension enable --py --sys-prefix widgetsnbextension
 16. Launch notebook with jupyter notebook
+
+## Actual Code...
+
+Fill in missing lines in Makers_AI_Tutorial_InProgress.ipynb
